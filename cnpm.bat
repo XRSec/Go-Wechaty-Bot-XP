@@ -1,0 +1,1 @@
+@npm --registry http://registry.npmmirror.com %*
